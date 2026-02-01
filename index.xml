@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TegarNote</title>
-    <link>https://blog.tegarsbl.my.id/</link>
+    <link>https://tegarsbl.github.io/</link>
     <description>Recent content on TegarNote</description>
     <generator>Hugo</generator>
     <language>id-id</language>
-    <atom:link href="https://blog.tegarsbl.my.id/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tegarsbl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://blog.tegarsbl.my.id/about/</link>
+      <link>https://tegarsbl.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.tegarsbl.my.id/about/</guid>
+      <guid>https://tegarsbl.github.io/about/</guid>
       <description>&lt;p&gt;Halo, nama saya &lt;strong&gt;Tegar Sabila&lt;/strong&gt;. Saya memiliki latar belakang di bidang &lt;strong&gt;Teknik Komputer Jaringan&lt;/strong&gt; dan sangat tertarik mendalami teknologi, seperti pemrograman, desain grafis, dan seni digital.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tentang-blog-ini&#34;&gt;Tentang Blog Ini&lt;/h2&gt;&#xA;&lt;p&gt;Blog ini saya buat untuk:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mencatat perjalanan belajar saya di dunia teknologi.&lt;/li&gt;&#xA;&lt;li&gt;Berbagi pengalaman dan pengetahuan.&lt;/li&gt;&#xA;&lt;li&gt;Membantu orang lain yang memiliki minat serupa.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Saya berharap blog ini bisa menjadi sumber inspirasi dan referensi untuk pembaca yang ingin belajar atau mengeksplorasi teknologi.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>https://blog.tegarsbl.my.id/privacy-policy/</link>
+      <link>https://tegarsbl.github.io/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.tegarsbl.my.id/privacy-policy/</guid>
+      <guid>https://tegarsbl.github.io/privacy-policy/</guid>
       <description>&lt;p&gt;At TegarNote, we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you visit our website &lt;a href=&#34;https://blog.tegarsbl.my.id&#34;&gt;https://&lt;/a&gt;. By using our site, you agree to the terms outlined in this policy.&lt;/p&gt;&#xA;&lt;h3 id=&#34;information-we-collect&#34;&gt;Information We Collect&lt;/h3&gt;&#xA;&lt;p&gt;We collect information to improve our website and services. The types of information we may collect include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Personal Information:&lt;/strong&gt; When you subscribe to our newsletter, leave a comment, or contact us, we may collect personal details such as your name, email address, and any other information you provide.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Non-Personal Information:&lt;/strong&gt; We may also collect non-personal data such as your IP address, browser type, operating system, and the pages you visit on our site.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;how-we-use-your-information&#34;&gt;How We Use Your Information&lt;/h3&gt;&#xA;&lt;p&gt;The information we collect is used for the following purposes:&lt;/p&gt;</description>
     </item>
   </channel>
