@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Huffman Encoding vs Fixed Length Encoding - TegarNote</title>
+    
+    <link rel="stylesheet" href="/css/main.min.css">
+</head>
+<body>
+    <header>
+    <h1><a href="/">TegarNote</a></h1>
+    <p>Kumpulan Catatan Tegar Sabila</p>
+</header>
+
+    <nav>
+    
+    <a href="/" >Home</a>
+    
+    <a href="/about/" >About</a>
+    
+    <a href="/privacy-policy/" >Privacy Policy</a>
+    
+</nav>
+
+    <main>
+        
+<article class="post">
+    <h1>Huffman Encoding vs Fixed Length Encoding</h1>
+    
+    <time>Published: 05 Jan 2025</time>
+    
+    <div class="content">
+        <h2 id="huffman-encoding">Huffman Encoding:</h2>
+<p>Jadi, Huffman encoding itu semacam cara buat ngecilin ukuran data, gitu. Intinya, dia bikin kode yang lebih pendek buat karakter yang sering muncul dan kode yang lebih panjang buat yang jarang muncul. Jadi, kita bisa menghemat ruang penyimpanan atau mengurangi waktu saat data itu dikirim. Dengan cara ini, kita bisa bikin data lebih efisien tanpa nambah-nambahin ukuran yang nggak perlu.</p>
+<h3 id="memahami-cara-kerja-huffman-encoding">Memahami Cara Kerja Huffman Encoding:</h3>
+<ol>
+<li>Cek Berapa Sering Karakter Muncul:
+Pertama-tama, kita hitung seberapa sering tiap karakter muncul di data yang mau kita kompres. Bayangkan kayak lagi ngitung berapa banyak biskuit yang ada di toples!</li>
+<li>Bikin Pohon Huffman:
+Setelah itu, kita bikin yang namanya pohon biner. Di sini, setiap daun pohon itu mewakili karakter. Kita mulai dari yang frekuensinya paling rendah dan gabungin mereka satu per satu sampai semua karakter jadi satu pohon yang kompak.</li>
+<li>Tentukan Kode untuk Karakter:
+Selanjutnya, kita jalan dari akar pohon ke daun, dan sambil jalan kita tentukan kode biner untuk setiap karakter. Kalau kita ke kiri, kasih &lsquo;0&rsquo;, dan ke kanan kasih &lsquo;1&rsquo;.</li>
+<li>Kompres Data:
+Terakhir, kita ganti setiap karakter di data asli dengan kode biner yang udah kita buat. Jadi, data kita sekarang lebih ringkas dan siap untuk disimpan atau dikirim.</li>
+</ol>
+<h3 id="kelebihan-huffman-encoding">Kelebihan Huffman Encoding:</h3>
+<ul>
+<li>Efisien: Dengan cara ini, kita bisa menghemat jumlah bit yang dipakai, jadi lebih hemat dibanding cara biasa yang panjangnya tetap.</li>
+<li>Adaptif: Panjang kode bisa nyesuaiin sendiri, tergantung seberapa sering karakter itu muncul.</li>
+</ul>
+<h2 id="fixed-length-encoding">Fixed-Length Encoding:</h2>
+<p>Jadi, fixed-length encoding itu kayak cara ngodein karakter atau simbol dengan kode yang panjangnya sama, nggak peduli seberapa sering karakter itu muncul. Contoh gampangnya adalah pengkodean ASCII, di mana setiap karakter diwakili oleh 8 bit. Jadi, semua karakter dapet jatah kode yang sama, meskipun ada yang lebih sering dipakai.</p>
+<h3 id="kelemahan-fixed-length-encoding">Kelemahan Fixed-Length Encoding:</h3>
+<ul>
+<li>Kurang Efisien:
+Metode ini nggak bisa memanfaatkan seberapa sering sebuah karakter muncul. Jadi, misalnya karakter yang jarang muncul tetap makan jumlah bit yang sama dengan karakter yang sering muncul.</li>
+<li>Ukuran Data Tidak Berkurang Signifikan:
+Semua karakter dapat kode dengan panjang yang sama, jadi kompresinya nggak sebagus metode lain, seperti Huffman encoding yang lebih pintar ngatur panjang kode sesuai frekuensi kemunculan.</li>
+</ul>
+<h2 id="uji-coba">Uji Coba</h2>
+<p><img src="/images/huffman-encoding.jpg" alt="Huffman Encoding"></p>
+<h2 id="kesimpulan">Kesimpulan:</h2>
+<p>Di gambar di atas itu contoh perbandingan antara Huffman Encoding dan Fixed-Length Encoding dimana hasilnya total bit pada Huffman Encoding lebih sedikit dibanding Fixed-Length Encoding.</p>
+<p>Jadi, Huffman encoding itu adalah cara kompresi yang lebih cerdas karena menggunakan panjang yang bervariasi, jadi lebih efisien daripada encoding dengan Fixed-Length Encoding. Ini terutama berguna saat data kita punya variasi frekuensi yang cukup mencolok antar karakter. Pilihan antara dua metode ini tergantung sama apa yang kamu butuhkan dan karakteristik data yang mau dikompresi.</p>
+
+    </div>
+    
+    <span class="tags">
+        
+        <span class="tags">
+            <a href="/tags/python">#python</a>
+        </span>
+        
+        <span class="tags">
+            <a href="/tags/programming">#programming</a>
+        </span>
+        
+    </span>
+    
+</article>
+
+    </main>
+    <footer>
+    <p>&copy; 2026 - Tegar Sabila</p>
+</footer>
+
+    
+    <script src="/js/search.min.js"></script>
+</body>
+</html>

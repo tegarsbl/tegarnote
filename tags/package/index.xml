@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Package on TegarNote</title>
+    <link>https://blog.tegarsbl.my.id/tags/package/</link>
+    <description>Recent content in Package on TegarNote</description>
+    <generator>Hugo</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sun, 05 Jan 2025 01:29:02 +0000</lastBuildDate>
+    <atom:link href="https://blog.tegarsbl.my.id/tags/package/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Event Notify Test Runner</title>
+      <link>https://blog.tegarsbl.my.id/posts/event-notify-test-runner/</link>
+      <pubDate>Sun, 05 Jan 2025 01:29:02 +0000</pubDate>
+      <guid>https://blog.tegarsbl.my.id/posts/event-notify-test-runner/</guid>
+      <description>&lt;p&gt;ENTR (Event Notify Test Runner) adalah alat yang simpel tapi sangat berguna buat ngejalanin perintah otomatis setiap kali ada perubahan di file atau direktori tertentu.&lt;/p&gt;&#xA;&lt;h2 id=&#34;cara-kerja-entr&#34;&gt;Cara Kerja ENTR&lt;/h2&gt;&#xA;&lt;p&gt;Secara umum, entr bakal &amp;ldquo;ngawasin&amp;rdquo; file atau direktori, dan begitu ada perubahan (kayak di-save ulang, di-edit, atau ditambahin), entr otomatis ngejalanin perintah yang kita tentukan. Ini ngebantu banget buat workflow yang butuh banyak revisi, seperti coding, nulis dokumen, atau kerja di proyek yang perlu cek hasil secara berkala.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

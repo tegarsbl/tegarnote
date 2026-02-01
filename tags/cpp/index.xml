@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cpp on TegarNote</title>
+    <link>https://blog.tegarsbl.my.id/tags/cpp/</link>
+    <description>Recent content in Cpp on TegarNote</description>
+    <generator>Hugo</generator>
+    <language>id-id</language>
+    <lastBuildDate>Thu, 09 Jan 2025 12:32:05 +0000</lastBuildDate>
+    <atom:link href="https://blog.tegarsbl.my.id/tags/cpp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boosting Performance with C&#43;&#43;17 and C&#43;&#43;20 Features</title>
+      <link>https://blog.tegarsbl.my.id/posts/boosting-performance-cpp/</link>
+      <pubDate>Thu, 09 Jan 2025 12:32:05 +0000</pubDate>
+      <guid>https://blog.tegarsbl.my.id/posts/boosting-performance-cpp/</guid>
+      <description>&lt;p&gt;Dalam perkembangan C++ yang terus berubah, mengikuti fitur-fitur terbaru dapat secara signifikan meningkatkan performa kode Anda. Dengan diperkenalkannya C++17 dan C++20, bahasa ini kini memiliki banyak fitur baru yang memberikan alat kuat bagi pengembang untuk mengoptimalkan program mereka. Artikel ini akan mengeksplorasi bagaimana Anda dapat meningkatkan performa aplikasi C++ Anda dengan memanfaatkan fitur-fitur terbaru seperti &lt;strong&gt;concepts&lt;/strong&gt;, &lt;strong&gt;modules&lt;/strong&gt;, dan perbaikan pada &lt;strong&gt;Standard Template Library (STL)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-memanfaatkan-concepts-untuk-konstraint-tipe-yang-lebih-baik&#34;&gt;1. Memanfaatkan Concepts untuk Konstraint Tipe yang Lebih Baik&lt;/h2&gt;&#xA;&lt;p&gt;Salah satu fitur paling berpengaruh yang diperkenalkan di C++20 adalah &lt;strong&gt;concepts&lt;/strong&gt;. Concepts memungkinkan pengembang untuk menentukan batasan pada parameter template, meningkatkan pesan kesalahan dari compiler dan membuka peluang optimasi yang lebih baik. Berikut adalah contoh sederhana:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Effective C&#43;&#43; Programming: Best Practices and Common Pitfalls</title>
+      <link>https://blog.tegarsbl.my.id/posts/effective-cpp-programmig/</link>
+      <pubDate>Thu, 09 Jan 2025 12:21:27 +0000</pubDate>
+      <guid>https://blog.tegarsbl.my.id/posts/effective-cpp-programmig/</guid>
+      <description>&lt;p&gt;Sebagai seorang pemrogram C++, memahami praktik terbaik dan menghindari kesalahan umum adalah kunci untuk menghasilkan kode yang efisien, aman, dan mudah dikelola. Dalam artikel ini, kita akan membahas beberapa praktik terbaik dalam pemrograman C++ serta mengidentifikasi beberapa kesalahan umum yang sering ditemui oleh pengembang.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-gunakan-objek-di-stack-sebisa-mungkin&#34;&gt;1. Gunakan Objek di Stack Sebisa Mungkin&lt;/h2&gt;&#xA;&lt;p&gt;Objek yang dideklarasikan secara lokal di stack biasanya lebih efisien dalam hal alokasi memori dan mengurangi risiko kebocoran memori. Hindari alokasi dinamis (menggunakan &lt;code&gt;new&lt;/code&gt; dan &lt;code&gt;delete&lt;/code&gt;) kecuali benar-benar diperlukan, dan manfaatkan konsep RAII (Resource Acquisition Is Initialization) untuk mengelola sumber daya secara otomatis.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

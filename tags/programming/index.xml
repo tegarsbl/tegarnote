@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on TegarNote</title>
+    <link>https://blog.tegarsbl.my.id/tags/programming/</link>
+    <description>Recent content in Programming on TegarNote</description>
+    <generator>Hugo</generator>
+    <language>id-id</language>
+    <lastBuildDate>Thu, 09 Jan 2025 12:32:05 +0000</lastBuildDate>
+    <atom:link href="https://blog.tegarsbl.my.id/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boosting Performance with C&#43;&#43;17 and C&#43;&#43;20 Features</title>
+      <link>https://blog.tegarsbl.my.id/posts/boosting-performance-cpp/</link>
+      <pubDate>Thu, 09 Jan 2025 12:32:05 +0000</pubDate>
+      <guid>https://blog.tegarsbl.my.id/posts/boosting-performance-cpp/</guid>
+      <description>&lt;p&gt;Dalam perkembangan C++ yang terus berubah, mengikuti fitur-fitur terbaru dapat secara signifikan meningkatkan performa kode Anda. Dengan diperkenalkannya C++17 dan C++20, bahasa ini kini memiliki banyak fitur baru yang memberikan alat kuat bagi pengembang untuk mengoptimalkan program mereka. Artikel ini akan mengeksplorasi bagaimana Anda dapat meningkatkan performa aplikasi C++ Anda dengan memanfaatkan fitur-fitur terbaru seperti &lt;strong&gt;concepts&lt;/strong&gt;, &lt;strong&gt;modules&lt;/strong&gt;, dan perbaikan pada &lt;strong&gt;Standard Template Library (STL)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-memanfaatkan-concepts-untuk-konstraint-tipe-yang-lebih-baik&#34;&gt;1. Memanfaatkan Concepts untuk Konstraint Tipe yang Lebih Baik&lt;/h2&gt;&#xA;&lt;p&gt;Salah satu fitur paling berpengaruh yang diperkenalkan di C++20 adalah &lt;strong&gt;concepts&lt;/strong&gt;. Concepts memungkinkan pengembang untuk menentukan batasan pada parameter template, meningkatkan pesan kesalahan dari compiler dan membuka peluang optimasi yang lebih baik. Berikut adalah contoh sederhana:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Effective C&#43;&#43; Programming: Best Practices and Common Pitfalls</title>
+      <link>https://blog.tegarsbl.my.id/posts/effective-cpp-programmig/</link>
+      <pubDate>Thu, 09 Jan 2025 12:21:27 +0000</pubDate>
+      <guid>https://blog.tegarsbl.my.id/posts/effective-cpp-programmig/</guid>
+      <description>&lt;p&gt;Sebagai seorang pemrogram C++, memahami praktik terbaik dan menghindari kesalahan umum adalah kunci untuk menghasilkan kode yang efisien, aman, dan mudah dikelola. Dalam artikel ini, kita akan membahas beberapa praktik terbaik dalam pemrograman C++ serta mengidentifikasi beberapa kesalahan umum yang sering ditemui oleh pengembang.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-gunakan-objek-di-stack-sebisa-mungkin&#34;&gt;1. Gunakan Objek di Stack Sebisa Mungkin&lt;/h2&gt;&#xA;&lt;p&gt;Objek yang dideklarasikan secara lokal di stack biasanya lebih efisien dalam hal alokasi memori dan mengurangi risiko kebocoran memori. Hindari alokasi dinamis (menggunakan &lt;code&gt;new&lt;/code&gt; dan &lt;code&gt;delete&lt;/code&gt;) kecuali benar-benar diperlukan, dan manfaatkan konsep RAII (Resource Acquisition Is Initialization) untuk mengelola sumber daya secara otomatis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>QRIS QR Code Modifier with CRC-16</title>
+      <link>https://blog.tegarsbl.my.id/posts/qris-qr-code-modifer/</link>
+      <pubDate>Tue, 07 Jan 2025 03:01:33 +0000</pubDate>
+      <guid>https://blog.tegarsbl.my.id/posts/qris-qr-code-modifer/</guid>
+      <description>&lt;p&gt;Di proyek ini, saya menggunakan sistem cek integritas dengan algoritma &lt;strong&gt;CRC-16 (Cyclic Redundancy Check)&lt;/strong&gt; untuk QR Code yang dibuat. CRC-16 adalah metode yang andal untuk mendeteksi kesalahan pada data digital yang dikirim atau disimpan. Algoritma CRC dirancang untuk memeriksa perubahan tidak sengaja pada data agar informasi yang dikirim tetap akurat.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mengapa-memakai-crc-16&#34;&gt;Mengapa Memakai CRC-16?&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kemampuan Deteksi Kesalahan&lt;/strong&gt;&lt;br&gt;&#xA;CRC-16 sangat andal dalam mendeteksi kesalahan umum, seperti &lt;em&gt;bit flips&lt;/em&gt; yang bisa terjadi saat data disimpan atau ditransfer. Hal ini sangat penting untuk QR Code, karena data yang rusak atau salah bisa membuat kode tidak terbaca atau bahkan mengarahkan ke informasi yang keliru.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Algoritma Kaprekar: Pola Matematika yang Unik</title>
+      <link>https://blog.tegarsbl.my.id/posts/algoritma-kaprekar/</link>
+      <pubDate>Tue, 07 Jan 2025 02:46:57 +0000</pubDate>
+      <guid>https://blog.tegarsbl.my.id/posts/algoritma-kaprekar/</guid>
+      <description>&lt;h2 id=&#34;penjelasan-singkat&#34;&gt;Penjelasan Singkat&lt;/h2&gt;&#xA;&lt;p&gt;Algoritma Kaprekar adalah prosedur matematika yang diciptakan oleh matematikawan India &lt;strong&gt;D. R. Kaprekar&lt;/strong&gt;. Algoritma ini terkenal dengan sifatnya yang unik dan menarik, terutama dalam konteks bilangan empat digit.&lt;/p&gt;&#xA;&lt;p&gt;Algoritma ini adalah sebuah prosedur iteratif yang menggunakan &lt;strong&gt;pengurutan&lt;/strong&gt; dan &lt;strong&gt;pengurangan&lt;/strong&gt; digit-digit dari suatu bilangan untuk mencapai suatu bilangan konstan yang spesifik, tergantung pada jumlah digit dari bilangan awal. Proses ini memperlihatkan pola matematika yang menarik dan menunjukkan sifat-sifat unik dari bilangan-bilangan tertentu.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Huffman Encoding vs Fixed Length Encoding</title>
+      <link>https://blog.tegarsbl.my.id/posts/huffman-encoding-vs-fixed-length-encoding/</link>
+      <pubDate>Sun, 05 Jan 2025 01:39:19 +0000</pubDate>
+      <guid>https://blog.tegarsbl.my.id/posts/huffman-encoding-vs-fixed-length-encoding/</guid>
+      <description>&lt;h2 id=&#34;huffman-encoding&#34;&gt;Huffman Encoding:&lt;/h2&gt;&#xA;&lt;p&gt;Jadi, Huffman encoding itu semacam cara buat ngecilin ukuran data, gitu. Intinya, dia bikin kode yang lebih pendek buat karakter yang sering muncul dan kode yang lebih panjang buat yang jarang muncul. Jadi, kita bisa menghemat ruang penyimpanan atau mengurangi waktu saat data itu dikirim. Dengan cara ini, kita bisa bikin data lebih efisien tanpa nambah-nambahin ukuran yang nggak perlu.&lt;/p&gt;&#xA;&lt;h3 id=&#34;memahami-cara-kerja-huffman-encoding&#34;&gt;Memahami Cara Kerja Huffman Encoding:&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cek Berapa Sering Karakter Muncul:&#xA;Pertama-tama, kita hitung seberapa sering tiap karakter muncul di data yang mau kita kompres. Bayangkan kayak lagi ngitung berapa banyak biskuit yang ada di toples!&lt;/li&gt;&#xA;&lt;li&gt;Bikin Pohon Huffman:&#xA;Setelah itu, kita bikin yang namanya pohon biner. Di sini, setiap daun pohon itu mewakili karakter. Kita mulai dari yang frekuensinya paling rendah dan gabungin mereka satu per satu sampai semua karakter jadi satu pohon yang kompak.&lt;/li&gt;&#xA;&lt;li&gt;Tentukan Kode untuk Karakter:&#xA;Selanjutnya, kita jalan dari akar pohon ke daun, dan sambil jalan kita tentukan kode biner untuk setiap karakter. Kalau kita ke kiri, kasih &amp;lsquo;0&amp;rsquo;, dan ke kanan kasih &amp;lsquo;1&amp;rsquo;.&lt;/li&gt;&#xA;&lt;li&gt;Kompres Data:&#xA;Terakhir, kita ganti setiap karakter di data asli dengan kode biner yang udah kita buat. Jadi, data kita sekarang lebih ringkas dan siap untuk disimpan atau dikirim.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;kelebihan-huffman-encoding&#34;&gt;Kelebihan Huffman Encoding:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Efisien: Dengan cara ini, kita bisa menghemat jumlah bit yang dipakai, jadi lebih hemat dibanding cara biasa yang panjangnya tetap.&lt;/li&gt;&#xA;&lt;li&gt;Adaptif: Panjang kode bisa nyesuaiin sendiri, tergantung seberapa sering karakter itu muncul.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;fixed-length-encoding&#34;&gt;Fixed-Length Encoding:&lt;/h2&gt;&#xA;&lt;p&gt;Jadi, fixed-length encoding itu kayak cara ngodein karakter atau simbol dengan kode yang panjangnya sama, nggak peduli seberapa sering karakter itu muncul. Contoh gampangnya adalah pengkodean ASCII, di mana setiap karakter diwakili oleh 8 bit. Jadi, semua karakter dapet jatah kode yang sama, meskipun ada yang lebih sering dipakai.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

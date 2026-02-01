@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cpp17 on TegarNote</title>
+    <link>https://blog.tegarsbl.my.id/tags/cpp17/</link>
+    <description>Recent content in Cpp17 on TegarNote</description>
+    <generator>Hugo</generator>
+    <language>id-id</language>
+    <lastBuildDate>Thu, 09 Jan 2025 12:32:05 +0000</lastBuildDate>
+    <atom:link href="https://blog.tegarsbl.my.id/tags/cpp17/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boosting Performance with C&#43;&#43;17 and C&#43;&#43;20 Features</title>
+      <link>https://blog.tegarsbl.my.id/posts/boosting-performance-cpp/</link>
+      <pubDate>Thu, 09 Jan 2025 12:32:05 +0000</pubDate>
+      <guid>https://blog.tegarsbl.my.id/posts/boosting-performance-cpp/</guid>
+      <description>&lt;p&gt;Dalam perkembangan C++ yang terus berubah, mengikuti fitur-fitur terbaru dapat secara signifikan meningkatkan performa kode Anda. Dengan diperkenalkannya C++17 dan C++20, bahasa ini kini memiliki banyak fitur baru yang memberikan alat kuat bagi pengembang untuk mengoptimalkan program mereka. Artikel ini akan mengeksplorasi bagaimana Anda dapat meningkatkan performa aplikasi C++ Anda dengan memanfaatkan fitur-fitur terbaru seperti &lt;strong&gt;concepts&lt;/strong&gt;, &lt;strong&gt;modules&lt;/strong&gt;, dan perbaikan pada &lt;strong&gt;Standard Template Library (STL)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-memanfaatkan-concepts-untuk-konstraint-tipe-yang-lebih-baik&#34;&gt;1. Memanfaatkan Concepts untuk Konstraint Tipe yang Lebih Baik&lt;/h2&gt;&#xA;&lt;p&gt;Salah satu fitur paling berpengaruh yang diperkenalkan di C++20 adalah &lt;strong&gt;concepts&lt;/strong&gt;. Concepts memungkinkan pengembang untuk menentukan batasan pada parameter template, meningkatkan pesan kesalahan dari compiler dan membuka peluang optimasi yang lebih baik. Berikut adalah contoh sederhana:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

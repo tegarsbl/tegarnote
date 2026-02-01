@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QRIS QR Code Modifier with CRC-16 - TegarNote</title>
+    
+    <link rel="stylesheet" href="/css/main.min.css">
+</head>
+<body>
+    <header>
+    <h1><a href="/">TegarNote</a></h1>
+    <p>Kumpulan Catatan Tegar Sabila</p>
+</header>
+
+    <nav>
+    
+    <a href="/" >Home</a>
+    
+    <a href="/about/" >About</a>
+    
+    <a href="/privacy-policy/" >Privacy Policy</a>
+    
+</nav>
+
+    <main>
+        
+<article class="post">
+    <h1>QRIS QR Code Modifier with CRC-16</h1>
+    
+    <time>Published: 07 Jan 2025</time>
+    
+    <div class="content">
+        <p>Di proyek ini, saya menggunakan sistem cek integritas dengan algoritma <strong>CRC-16 (Cyclic Redundancy Check)</strong> untuk QR Code yang dibuat. CRC-16 adalah metode yang andal untuk mendeteksi kesalahan pada data digital yang dikirim atau disimpan. Algoritma CRC dirancang untuk memeriksa perubahan tidak sengaja pada data agar informasi yang dikirim tetap akurat.</p>
+<h2 id="mengapa-memakai-crc-16">Mengapa Memakai CRC-16?</h2>
+<ol>
+<li>
+<p><strong>Kemampuan Deteksi Kesalahan</strong><br>
+CRC-16 sangat andal dalam mendeteksi kesalahan umum, seperti <em>bit flips</em> yang bisa terjadi saat data disimpan atau ditransfer. Hal ini sangat penting untuk QR Code, karena data yang rusak atau salah bisa membuat kode tidak terbaca atau bahkan mengarahkan ke informasi yang keliru.</p>
+</li>
+<li>
+<p><strong>Sederhana dan Efisien</strong><br>
+CRC-16 adalah algoritma yang sederhana dan ringan, sehingga cocok untuk sistem dengan keterbatasan komputasi, seperti perangkat mobile atau sistem tertanam.</p>
+</li>
+<li>
+<p><strong>Kompatibilitas Tinggi</strong><br>
+CRC-16 sudah banyak digunakan dalam berbagai protokol komunikasi dan sistem penyimpanan. Ini membuatnya kompatibel dengan banyak standar, termasuk QR Code.</p>
+</li>
+</ol>
+<h2 id="cara-kerja-crc-16">Cara Kerja CRC-16</h2>
+<ol>
+<li>
+<p><strong>Proses Dasar</strong><br>
+CRC-16 bekerja dengan memproses data biner menggunakan polinomial generator tertentu, menghasilkan nilai sisa (checksum). Polinomial yang sering digunakan adalah <code>0x1021</code> atau <code>0x8005</code>, tergantung versinya.</p>
+</li>
+<li>
+<p><strong>Implementasi dalam Program</strong></p>
+<ul>
+<li>Pada QR Code, setiap bagian data (seperti versi, data utama, atau koreksi kesalahan) dikodekan, dan CRC dihitung selama proses tersebut.</li>
+<li>Jika QR Code diubah, algoritma CRC digunakan untuk memastikan perubahan tersebut tidak merusak data. Setelah modifikasi, checksum CRC dihitung ulang untuk memastikan data tetap valid.</li>
+</ul>
+</li>
+<li>
+<p><strong>Manfaat Utama</strong><br>
+CRC membantu memastikan bahwa QR Code yang dibuat atau diubah tetap valid tanpa kesalahan. Misalnya, jika kita mengubah informasi seperti nama merchant atau kode pos dalam QR Code, CRC memastikan modifikasi tersebut tetap menghasilkan QR Code yang sah.</p>
+</li>
+</ol>
+<h2 id="fungsi-crc-untuk-qr-code">Fungsi CRC untuk QR Code</h2>
+<p>CRC-16 adalah metode untuk memastikan data tetap utuh dan tidak rusak. Contohnya:</p>
+<ul>
+<li>Ketika membuat QR Code, CRC membantu memastikan semua data di dalamnya konsisten dan bebas kesalahan.</li>
+<li>Tanpa CRC, perubahan kecil pada data QR dapat menyebabkan kode menjadi tidak terbaca atau memberikan informasi yang salah.</li>
+<li>Oleh karena itu, CRC sangat penting untuk menjaga keandalan QR Code.</li>
+</ul>
+<h2 id="demo">Demo</h2>
+<p>Coba langsung modifikasinya di sini:
+<a href="https://tegarsbl.github.io/QRIS-Editor/">QRIS QR Code Modifier Demo</a></p>
+<p>Semoga penjelasan ini bermanfaat untuk memahami pentingnya CRC-16 dalam menjaga integritas QR Code!</p>
+
+    </div>
+    
+    <span class="tags">
+        
+        <span class="tags">
+            <a href="/tags/qris">#qris</a>
+        </span>
+        
+        <span class="tags">
+            <a href="/tags/crc-16">#crc-16</a>
+        </span>
+        
+        <span class="tags">
+            <a href="/tags/qr-code">#qr-code</a>
+        </span>
+        
+        <span class="tags">
+            <a href="/tags/programming">#programming</a>
+        </span>
+        
+    </span>
+    
+</article>
+
+    </main>
+    <footer>
+    <p>&copy; 2026 - Tegar Sabila</p>
+</footer>
+
+    
+    <script src="/js/search.min.js"></script>
+</body>
+</html>

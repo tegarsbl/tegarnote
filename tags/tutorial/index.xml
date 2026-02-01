@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on TegarBlog</title>
+    <link>http://localhost:1313/tags/tutorial/</link>
+    <description>Recent content in Tutorial on TegarBlog</description>
+    <generator>Hugo</generator>
+    <language>id-id</language>
+    <lastBuildDate>Thu, 09 Jan 2025 12:21:27 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effective C&#43;&#43; Programming: Best Practices and Common Pitfalls</title>
+      <link>http://localhost:1313/posts/effective-cpp-programmig/</link>
+      <pubDate>Thu, 09 Jan 2025 12:21:27 +0000</pubDate>
+      <guid>http://localhost:1313/posts/effective-cpp-programmig/</guid>
+      <description>&lt;p&gt;Sebagai seorang pemrogram C++, memahami praktik terbaik dan menghindari kesalahan umum adalah kunci untuk menghasilkan kode yang efisien, aman, dan mudah dikelola. Dalam artikel ini, kita akan membahas beberapa praktik terbaik dalam pemrograman C++ serta mengidentifikasi beberapa kesalahan umum yang sering ditemui oleh pengembang.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-gunakan-objek-di-stack-sebisa-mungkin&#34;&gt;1. Gunakan Objek di Stack Sebisa Mungkin&lt;/h2&gt;&#xA;&lt;p&gt;Objek yang dideklarasikan secara lokal di stack biasanya lebih efisien dalam hal alokasi memori dan mengurangi risiko kebocoran memori. Hindari alokasi dinamis (menggunakan &lt;code&gt;new&lt;/code&gt; dan &lt;code&gt;delete&lt;/code&gt;) kecuali benar-benar diperlukan, dan manfaatkan konsep RAII (Resource Acquisition Is Initialization) untuk mengelola sumber daya secara otomatis.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

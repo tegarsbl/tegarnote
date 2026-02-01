@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaprekar on TegarNote</title>
+    <link>https://blog.tegarsbl.my.id/tags/kaprekar/</link>
+    <description>Recent content in Kaprekar on TegarNote</description>
+    <generator>Hugo</generator>
+    <language>id-id</language>
+    <lastBuildDate>Tue, 07 Jan 2025 02:46:57 +0000</lastBuildDate>
+    <atom:link href="https://blog.tegarsbl.my.id/tags/kaprekar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algoritma Kaprekar: Pola Matematika yang Unik</title>
+      <link>https://blog.tegarsbl.my.id/posts/algoritma-kaprekar/</link>
+      <pubDate>Tue, 07 Jan 2025 02:46:57 +0000</pubDate>
+      <guid>https://blog.tegarsbl.my.id/posts/algoritma-kaprekar/</guid>
+      <description>&lt;h2 id=&#34;penjelasan-singkat&#34;&gt;Penjelasan Singkat&lt;/h2&gt;&#xA;&lt;p&gt;Algoritma Kaprekar adalah prosedur matematika yang diciptakan oleh matematikawan India &lt;strong&gt;D. R. Kaprekar&lt;/strong&gt;. Algoritma ini terkenal dengan sifatnya yang unik dan menarik, terutama dalam konteks bilangan empat digit.&lt;/p&gt;&#xA;&lt;p&gt;Algoritma ini adalah sebuah prosedur iteratif yang menggunakan &lt;strong&gt;pengurutan&lt;/strong&gt; dan &lt;strong&gt;pengurangan&lt;/strong&gt; digit-digit dari suatu bilangan untuk mencapai suatu bilangan konstan yang spesifik, tergantung pada jumlah digit dari bilangan awal. Proses ini memperlihatkan pola matematika yang menarik dan menunjukkan sifat-sifat unik dari bilangan-bilangan tertentu.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

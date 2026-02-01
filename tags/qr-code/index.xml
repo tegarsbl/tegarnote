@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qr-Code on TegarNote</title>
+    <link>https://blog.tegarsbl.my.id/tags/qr-code/</link>
+    <description>Recent content in Qr-Code on TegarNote</description>
+    <generator>Hugo</generator>
+    <language>id-id</language>
+    <lastBuildDate>Tue, 07 Jan 2025 03:01:33 +0000</lastBuildDate>
+    <atom:link href="https://blog.tegarsbl.my.id/tags/qr-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QRIS QR Code Modifier with CRC-16</title>
+      <link>https://blog.tegarsbl.my.id/posts/qris-qr-code-modifer/</link>
+      <pubDate>Tue, 07 Jan 2025 03:01:33 +0000</pubDate>
+      <guid>https://blog.tegarsbl.my.id/posts/qris-qr-code-modifer/</guid>
+      <description>&lt;p&gt;Di proyek ini, saya menggunakan sistem cek integritas dengan algoritma &lt;strong&gt;CRC-16 (Cyclic Redundancy Check)&lt;/strong&gt; untuk QR Code yang dibuat. CRC-16 adalah metode yang andal untuk mendeteksi kesalahan pada data digital yang dikirim atau disimpan. Algoritma CRC dirancang untuk memeriksa perubahan tidak sengaja pada data agar informasi yang dikirim tetap akurat.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mengapa-memakai-crc-16&#34;&gt;Mengapa Memakai CRC-16?&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kemampuan Deteksi Kesalahan&lt;/strong&gt;&lt;br&gt;&#xA;CRC-16 sangat andal dalam mendeteksi kesalahan umum, seperti &lt;em&gt;bit flips&lt;/em&gt; yang bisa terjadi saat data disimpan atau ditransfer. Hal ini sangat penting untuk QR Code, karena data yang rusak atau salah bisa membuat kode tidak terbaca atau bahkan mengarahkan ke informasi yang keliru.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

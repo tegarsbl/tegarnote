@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on TegarNote</title>
+    <link>https://blog.tegarsbl.my.id/tags/python/</link>
+    <description>Recent content in Python on TegarNote</description>
+    <generator>Hugo</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sun, 05 Jan 2025 01:39:19 +0000</lastBuildDate>
+    <atom:link href="https://blog.tegarsbl.my.id/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Huffman Encoding vs Fixed Length Encoding</title>
+      <link>https://blog.tegarsbl.my.id/posts/huffman-encoding-vs-fixed-length-encoding/</link>
+      <pubDate>Sun, 05 Jan 2025 01:39:19 +0000</pubDate>
+      <guid>https://blog.tegarsbl.my.id/posts/huffman-encoding-vs-fixed-length-encoding/</guid>
+      <description>&lt;h2 id=&#34;huffman-encoding&#34;&gt;Huffman Encoding:&lt;/h2&gt;&#xA;&lt;p&gt;Jadi, Huffman encoding itu semacam cara buat ngecilin ukuran data, gitu. Intinya, dia bikin kode yang lebih pendek buat karakter yang sering muncul dan kode yang lebih panjang buat yang jarang muncul. Jadi, kita bisa menghemat ruang penyimpanan atau mengurangi waktu saat data itu dikirim. Dengan cara ini, kita bisa bikin data lebih efisien tanpa nambah-nambahin ukuran yang nggak perlu.&lt;/p&gt;&#xA;&lt;h3 id=&#34;memahami-cara-kerja-huffman-encoding&#34;&gt;Memahami Cara Kerja Huffman Encoding:&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cek Berapa Sering Karakter Muncul:&#xA;Pertama-tama, kita hitung seberapa sering tiap karakter muncul di data yang mau kita kompres. Bayangkan kayak lagi ngitung berapa banyak biskuit yang ada di toples!&lt;/li&gt;&#xA;&lt;li&gt;Bikin Pohon Huffman:&#xA;Setelah itu, kita bikin yang namanya pohon biner. Di sini, setiap daun pohon itu mewakili karakter. Kita mulai dari yang frekuensinya paling rendah dan gabungin mereka satu per satu sampai semua karakter jadi satu pohon yang kompak.&lt;/li&gt;&#xA;&lt;li&gt;Tentukan Kode untuk Karakter:&#xA;Selanjutnya, kita jalan dari akar pohon ke daun, dan sambil jalan kita tentukan kode biner untuk setiap karakter. Kalau kita ke kiri, kasih &amp;lsquo;0&amp;rsquo;, dan ke kanan kasih &amp;lsquo;1&amp;rsquo;.&lt;/li&gt;&#xA;&lt;li&gt;Kompres Data:&#xA;Terakhir, kita ganti setiap karakter di data asli dengan kode biner yang udah kita buat. Jadi, data kita sekarang lebih ringkas dan siap untuk disimpan atau dikirim.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;kelebihan-huffman-encoding&#34;&gt;Kelebihan Huffman Encoding:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Efisien: Dengan cara ini, kita bisa menghemat jumlah bit yang dipakai, jadi lebih hemat dibanding cara biasa yang panjangnya tetap.&lt;/li&gt;&#xA;&lt;li&gt;Adaptif: Panjang kode bisa nyesuaiin sendiri, tergantung seberapa sering karakter itu muncul.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;fixed-length-encoding&#34;&gt;Fixed-Length Encoding:&lt;/h2&gt;&#xA;&lt;p&gt;Jadi, fixed-length encoding itu kayak cara ngodein karakter atau simbol dengan kode yang panjangnya sama, nggak peduli seberapa sering karakter itu muncul. Contoh gampangnya adalah pengkodean ASCII, di mana setiap karakter diwakili oleh 8 bit. Jadi, semua karakter dapet jatah kode yang sama, meskipun ada yang lebih sering dipakai.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

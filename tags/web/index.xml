@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on TegarBlog</title>
+    <link>https://blog.tegarsbl.my.id/tags/web/</link>
+    <description>Recent content in Web on TegarBlog</description>
+    <generator>Hugo</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sat, 04 Jan 2025 16:56:49 +0000</lastBuildDate>
+    <atom:link href="https://blog.tegarsbl.my.id/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>https://blog.tegarsbl.my.id/posts/second-post/</link>
+      <pubDate>Sat, 04 Jan 2025 16:56:49 +0000</pubDate>
+      <guid>https://blog.tegarsbl.my.id/posts/second-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
