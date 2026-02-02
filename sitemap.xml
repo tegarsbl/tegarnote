@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tegarsbl.github.io/tegarnote/about/</loc>
+    <loc>https://membacapola.netlify.app/posts/</loc>
+    <lastmod>2026-02-02T11:07:52+00:00</lastmod>
   </url><url>
-    <loc>https://tegarsbl.github.io/tegarnote/posts/</loc>
+    <loc>https://membacapola.netlify.app/</loc>
+    <lastmod>2026-02-02T11:07:52+00:00</lastmod>
   </url><url>
-    <loc>https://tegarsbl.github.io/tegarnote/</loc>
+    <loc>https://membacapola.netlify.app/tags/psikologi/</loc>
+    <lastmod>2026-02-02T11:07:52+00:00</lastmod>
   </url><url>
-    <loc>https://tegarsbl.github.io/tegarnote/privacy-policy/</loc>
+    <loc>https://membacapola.netlify.app/tags/silent_control/</loc>
+    <lastmod>2026-02-02T11:07:52+00:00</lastmod>
   </url><url>
-    <loc>https://tegarsbl.github.io/tegarnote/tags/</loc>
+    <loc>https://membacapola.netlify.app/tags/</loc>
+    <lastmod>2026-02-02T11:07:52+00:00</lastmod>
+  </url><url>
+    <loc>https://membacapola.netlify.app/posts/teknik_silent_control/</loc>
+    <lastmod>2026-02-02T11:07:52+00:00</lastmod>
+  </url><url>
+    <loc>https://membacapola.netlify.app/about/</loc>
+  </url><url>
+    <loc>https://membacapola.netlify.app/privacy-policy/</loc>
   </url>
 </urlset>

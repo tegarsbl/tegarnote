@@ -2,23 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Membaca Pola</title>
-    <link>https://tegarsbl.github.io/tegarnote/</link>
+    <link>https://membacapola.netlify.app/</link>
     <description>Recent content on Membaca Pola</description>
     <generator>Hugo</generator>
     <language>id-id</language>
-    <atom:link href="https://tegarsbl.github.io/tegarnote/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Feb 2026 11:07:52 +0000</lastBuildDate>
+    <atom:link href="https://membacapola.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teknik Silent Control: Cara Memimpin Tanpa Banyak Bicara</title>
+      <link>https://membacapola.netlify.app/posts/teknik_silent_control/</link>
+      <pubDate>Mon, 02 Feb 2026 11:07:52 +0000</pubDate>
+      <guid>https://membacapola.netlify.app/posts/teknik_silent_control/</guid>
+      <description>&lt;p&gt;Dalam dunia kepemimpinan, kita sering mengasosiasikan pemimpin hebat dengan kemampuan berbicara yang lantang, instruktif, dan penuh arahan. Namun, psikologi modern justru menunjukkan hal yang menarik: &lt;em&gt;pemimpin yang paling berpengaruh sering kali adalah mereka yang tidak banyak bicara&lt;/em&gt;. Konsep ini dikenal sebagai teknik silent control—cara memimpin dan mengendalikan situasi tanpa perlu instruksi verbal yang berlebihan.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
-      <link>https://tegarsbl.github.io/tegarnote/about/</link>
+      <link>https://membacapola.netlify.app/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tegarsbl.github.io/tegarnote/about/</guid>
+      <guid>https://membacapola.netlify.app/about/</guid>
       <description>&lt;p&gt;Di tengah banyaknya informasi, pengalaman, dan kejadian sehari-hari, sering kali yang luput bukanlah datanya—melainkan &lt;em&gt;polanya&lt;/em&gt;.&#xA;Situs ini adalah ruang untuk mencatat, mengamati, dan memahami hal-hal yang berulang: dalam pikiran, perilaku manusia, teknologi, dan kehidupan sehari-hari.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tentang-situs-ini&#34;&gt;Tentang Situs Ini&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Membaca Pola&lt;/em&gt; berisi catatan dari proses belajar yang terus berjalan. Sebagian tulisan membahas psikologi, sebagian lain tentang teknologi, pelajaran hidup, atau hal-hal kecil yang terasa penting untuk dicatat.&lt;/p&gt;&#xA;&lt;p&gt;Tidak semua tulisan menawarkan jawaban.&#xA;Sebagian hanya mencoba merapikan pertanyaan.&#xA;Tujuannya sederhana: &lt;em&gt;memahami dengan lebih jernih&lt;/em&gt;, lewat pengamatan dan refleksi yang pelan.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>https://tegarsbl.github.io/tegarnote/privacy-policy/</link>
+      <link>https://membacapola.netlify.app/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tegarsbl.github.io/tegarnote/privacy-policy/</guid>
+      <guid>https://membacapola.netlify.app/privacy-policy/</guid>
       <description>&lt;p&gt;At TegarNote, we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you visit our website &lt;a href=&#34;https://blog.tegarsbl.my.id&#34;&gt;https://&lt;/a&gt;. By using our site, you agree to the terms outlined in this policy.&lt;/p&gt;&#xA;&lt;h3 id=&#34;information-we-collect&#34;&gt;Information We Collect&lt;/h3&gt;&#xA;&lt;p&gt;We collect information to improve our website and services. The types of information we may collect include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Personal Information:&lt;/strong&gt; When you subscribe to our newsletter, leave a comment, or contact us, we may collect personal details such as your name, email address, and any other information you provide.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Non-Personal Information:&lt;/strong&gt; We may also collect non-personal data such as your IP address, browser type, operating system, and the pages you visit on our site.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;how-we-use-your-information&#34;&gt;How We Use Your Information&lt;/h3&gt;&#xA;&lt;p&gt;The information we collect is used for the following purposes:&lt;/p&gt;</description>
     </item>
   </channel>
